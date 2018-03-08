@@ -1,2 +1,1 @@
-# blog
-my notes
+# 这是我的笔记
